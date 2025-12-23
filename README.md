@@ -17,6 +17,8 @@
 - Генерация `.sln`, `.vcxproj`, `.vcxproj.filters`
 - Структура проекта:
 
+- 
+
 ProjectName/
 ├─ src/
 │ ├─ main.cpp
