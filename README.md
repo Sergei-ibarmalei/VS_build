@@ -17,8 +17,7 @@
 - Генерация `.sln`, `.vcxproj`, `.vcxproj.filters`
 - Структура проекта:
 
-- 
-
+```bash
 ProjectName/
 ├─ src/
 │ ├─ main.cpp
@@ -29,6 +28,7 @@ ProjectName/
 ├─ assets/
 ├─ bin/
 ├─ intermediate/
+```
 
 - Подключение:
 - SDL2
